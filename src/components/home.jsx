@@ -68,6 +68,14 @@ function Home() {
 
 <button className="text-orange-100 px-4 bg-yellow-900">Sign up now</button>
 </div>
+<section className="flex flex-col gap-5">
+  <header className="text-5xl">
+  <span className="text-white">Ready to</span> <span className="text-orange-900">transform</span>  <span className="text-white">your</span>  <span className="text-orange-900">event</span> <span className="text-white">Business?</span>
+  </header>
+  <p>Join organizers who trust Sinc to organize and <br /> manage their events with ease and smart <br /> conditions.</p>
+  <button className="text-yellow-900 bg-orange-600 px-3  rounded-lg">Contact us</button>
+</section>
+
 
 
 
